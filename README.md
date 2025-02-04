@@ -1,4 +1,3 @@
-# Online-Retail-II---Customer-Segmentation-RFM-Analysis
 
 # Online Retail II - Customer Segmentation & RFM Analysis
 ## 📌 Project Overview
